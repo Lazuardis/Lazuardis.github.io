@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I hold a Bachelor's degree in Industrial Engineering and a Master's degree in Business Analytics. As a Data Analytics and Science enthusiast, I am deeply passionate about quantitative disciplines and tools. I continuously strive to enhance my expertise in Operations Research, Management Science, and Business Management, with a particular focus on Modelling and Simulation.
+I hold a Bachelor's degree in Industrial Engineering and a Master's degree in Business Analytics. As a Data Analytics and Science enthusiast, I am deeply passionate about quantitative disciplines and tools. 
+
+I continuously strive to enhance my expertise in Operations Research, Management Science, and Business Management, with a particular focus on Modelling and Simulation.
