@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lazuardi Al-Muzaki",
+    "label": "Dara Analyst and Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lazuardy.almuzaki@gmail.com",
+    "phone": "(+62) 811-3460-470",
+    "url": "https://lazuardis.github.io/cv/",
+    "summary": "An aspiring educator with specialization in quantitative approaches. Passionate in the utilization of data in solving real-world, business and industrial problems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Demak Timur VI No. 10",
+      "postalCode": "60172",
+      "city": "Surabaya",
+      "countryCode": "Indonesia",
+      "province": "East Java"
     },
     "profiles": [
       {
@@ -24,14 +24,26 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Inalyst Indonesia of Telkom Indonesia",
+      "position": "Head of Business Analyst",
+      "url": ,
+      "startDate": "2021-06-01",
+      "endDate": "2022-08-01",
+      "summary": "Designed and curated problem-solving, quantitative-based solution proposals to enterprise-level clients. Acted as company's spokesperson during enterprise-level project meetings, facilitating communication between clients and the team providing Data as a Service (DaaS).",
+      "highlights": ["Led a team of Data Scientists, Software Developers, and a UI/UX Designer as the Product/Project Manager to develop a digital infrastructure for employee competency assessment in Data Science and Machine Learning. Collaborated with a third-party company to design machine learning case studies, including Classification, Clustering, Recommender Systems, and Deep Learning."]
+    },
+
+    {
+      "name": "Turangga Resources of Astra International",
+      "position": "Operational Monitoring and Cost Control Analyst",
+      "url": "https://www.turanggaresources.com/id/home/",
+      "startDate": "2018-11-01",
+      "endDate": "2022-01-12",
+      "summary": "Extracted, processed, analyzed, and reported operational activity data while developing data processing infrastructure and a data center for documentation and analysis. Calculated and reviewed operational costs, identifying cost reduction opportunities. Conducted operational research and process improvement, presenting insights to stakeholders for decision-making.",
+      "highlights": ["Initiated and managed a project to enhance standard operating procedures, improve the monitoring system, and propose contract adjustments between the company and a contractor, resulting in annual cost savings of approximately £300,000 (Rp. 6,000,000,000).",
+    "Conducted a study to design coal operation activity budgeting using motion time study and inferential statistics as part of a graduate program project."]
+    },
+
   ],
   "volunteer": [
     {
