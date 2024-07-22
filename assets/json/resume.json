@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Lazuardi Al-Muzaki",
-    "label": "Dara Analyst and Scientist",
+    "label": "Data Analyst and Scientist",
     "image": "",
     "email": "lazuardy.almuzaki@gmail.com",
     "phone": "(+62) 811-3460-470",
@@ -74,6 +74,16 @@
   ],
   "volunteer": [
     {
+      "organization": "Dealls",
+      "location": "Remote",
+      "position": "Mentor",
+      "url": "https://dealls.com/mentoring",
+      "startDate": "2024-02-01",
+      "endDate": "2023-03-01",
+      "summary": "Provide and assist potential student embarking higher education and scholarship opportunity. Additionally covering mentoring topics about Business Analytics, Industrial Engineering, Quantitative Modelling and many more."
+    },
+
+    {
       "organization": "Edinburgh Indonesia Student Association",
       "location": "Edinburgh, Scotland",
       "position": "Academic Staff",
@@ -120,34 +130,34 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "International Industrial Simulation Competition",
+      "date": "2018-03-01",
+      "awarder": "Telkom University",
+      "url": "https://telkomuniversity.ac.id/",
+      "summary": "A competition that requires to solve an industrial case study presented in a paper journal. During the final round, engage in a simulation game involving industrial production, procurement, and sales activities. This simulation includes a demonstration of competencies in Production Planning and Market Strategy.'"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "IBM Data Science",
+      "date": "2024-05-01",
+      "issuer": "IBM",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/RU46MWACA2V9",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Data Scientist",
+      "date": "2018-06-01",
+      "issuer": "DataCamp",
+      "url": "https://www.datacamp.com/certificate/DS0024766688708",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Data Analyst",
+      "date": "2018-05-01",
+      "issuer": "DataCamp",
+      "url": "https://www.datacamp.com/certificate/DA0026490658690",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Quantum Cryptography",
@@ -157,10 +167,10 @@
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Edinburgh Award: Global Employability",
+      "date": "2023-08-01",
+      "issuer": "University of Edinburgh",
+      "url": "https://api.eu.badgr.io/public/assertions/j2pbrXURQXCeJ2bVNOz4VQ",
       "icon": "fa-solid fa-calendar"
     },
     {
@@ -211,13 +221,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Indonesia",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent/Professional",
       "icon": ""
     }
   ],
