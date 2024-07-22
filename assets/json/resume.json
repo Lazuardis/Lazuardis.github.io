@@ -172,22 +172,16 @@
       "issuer": "University of Edinburgh",
       "url": "https://api.eu.badgr.io/public/assertions/j2pbrXURQXCeJ2bVNOz4VQ",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
+
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Evaluasi Kegiatan Pengiriman dan Penerimaan Kontainer Dalam Usaha Meminimalkan Waktu Singgah Truk Di Terminal Teluk Lamong",
+      "publisher": "Repository Institut Teknologi Sepuluh Nopember (ITS)",
+      "releaseDate": "2021-07-01",
+      "url": "https://repository.its.ac.id/56913/",
+      "summary": "Application of discrete event simulation for resource planning and entity scheduling to minimize truck turnaround times at a green port in Surabaya."
     },
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
