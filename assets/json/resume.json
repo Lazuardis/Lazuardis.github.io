@@ -74,30 +74,39 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Edinburgh Indonesia Student Association",
+      "location": "Edinburgh, Scotland",
+      "position": "Academic Staff",
+      "url": "https://www.instagram.com/ppiedinburgh/?hl=en",
+      "startDate": "2022-11-01",
+      "endDate": "2023-09-01",
+      "summary": "Coordinated academic support for the Indonesian student community by fostering mentor connections and providing academic consultations. Designed and executed events to help students prepare dissertations and publish in journals."
+    },
+
+    {
+      "organization": "Quantitative Modelling and Industrial Policy Analysis Research Laboratory",
+      "location": "Surabaya, Indonesia",
+      "position": "Member and Coordinator",
+      "url": "https://www.instagram.com/lab.qmipa/?hl=en",
+      "startDate": "2016-09-01",
+      "endDate": "2018-08-01",
+      "summary": "Led a team of assistants to develop and execute the university laboratory's work program. Provided academic assistance and conducted teaching activities related to the laboratory. Participated in internal upgrades, tutorials, software training, and project collaborations. Served as a tutor for public workshops promoting laboratory tools in modeling and optimization for industrial case studies."
     }
   ],
   "education": [
     {
       "institution": "University of Edinburgh, UK",
-      "location": "Edinburgh, Scotland, United Kingdom",
+      "location": "Edinburgh, Scotland",
       "url": "https://www.ed.ac.uk/",
       "major": "Business Analytics",
       "studyType": "Master",
       "startDate": "2022-09-12",
       "endDate": "2023-11-28",
       "score": "Distinction",
-      "notable courses": ["Simulation and Modelling", "Predictive Analytics", "Prescriptive Analytics", "Web and Network Analytics", "Python Programming", "Soft-Computing", "Stochastic Programming"]
+      "courses": ["Simulation and Modelling", "Predictive Analytics", "Prescriptive Analytics", "Web and Network Analytics", "Python Programming", "Soft-Computing", "Stochastic Programming"]
     },
 
-        {
+    {
       "institution": "Institut Teknologi Sepuluh Nopember",
       "location": "Surabaya, Indonesia",
       "url": "https://www.its.ac.id/",
@@ -106,7 +115,7 @@
       "startDate": "2014-08-01",
       "endDate": "2018-09-01",
       "score": "3.42",
-      "notable courses": ["Project Management", "Feasibility Study", "Business Statistics", "Operation Research", "Quality Control", "Supply Chain Management", "Simulation", "Data Mining"]
+      "courses": ["Project Management", "Feasibility Study", "Business Statistics", "Operation Research", "Quality Control", "Supply Chain Management", "Simulation", "Data Mining"]
     }
   ],
   "awards": [
