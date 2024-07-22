@@ -2,4 +2,6 @@ I hold a Bachelor's degree in Industrial Engineering and a Master's degree in Bu
 
 I continuously strive to enhance my expertise in Operations Research, Management Science, and Business Management, with a particular focus on Modelling and Simulation.
 
-Always open for collaboration and project. I have been dwelling in various use case of Business, Retail and Logistics, Mining, Supply Chain, Agriculture, Aviation, Port and many more!.
+Experienced and devoted in seeking expertise in Statistics, Mathematical Modelling, Discrete-Event Simulation, Agent-Based Modelling, Machine Learning, Artificial Intelligence and System Dynamics.
+
+Always open for collaboration and project. I have been dwelling in various use case of Business, Retail and Logistics, Mining, Supply Chain, Agriculture, Aviation, Port and many more.
