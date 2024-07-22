@@ -30,7 +30,9 @@
       "startDate": "2021-06-01",
       "endDate": "2022-08-01",
       "summary": "Designed and curated problem-solving, quantitative-based solution proposals to enterprise-level clients. Acted as company's spokesperson during enterprise-level project meetings, facilitating communication between clients and the team providing Data as a Service (DaaS).",
-      "highlights": ["Led a team of Data Scientists, Software Developers, and a UI/UX Designer as the Product/Project Manager to develop a digital infrastructure for employee competency assessment in Data Science and Machine Learning. Collaborated with a third-party company to design machine learning case studies, including Classification, Clustering, Recommender Systems, and Deep Learning."]
+      "highlights": [
+        "Led a team of Data Scientists, Software Developers, and a UI/UX Designer as the Product/Project Manager to develop a digital infrastructure for employee competency assessment in Data Science and Machine Learning. Collaborated with a third-party company to design machine learning case studies, including Classification, Clustering, Recommender Systems, and Deep Learning."
+      ]
     },
 
     {
@@ -40,8 +42,10 @@
       "startDate": "2018-11-01",
       "endDate": "2022-01-12",
       "summary": "Extracted, processed, analyzed, and reported operational activity data while developing data processing infrastructure and a data center for documentation and analysis. Calculated and reviewed operational costs, identifying cost reduction opportunities. Conducted operational research and process improvement, presenting insights to stakeholders for decision-making.",
-      "highlights": ["Initiated and managed a project to enhance standard operating procedures, improve the monitoring system, and propose contract adjustments between the company and a contractor, resulting in annual cost savings of approximately £300,000 (Rp. 6,000,000,000).",
-    "Conducted a study to design coal operation activity budgeting using motion time study and inferential statistics as part of a graduate program project."]
+      "highlights": [
+        "Initiated and managed a project to enhance standard operating procedures, improve the monitoring system, and propose contract adjustments between the company and a contractor, resulting in annual cost savings of approximately £300,000 (Rp. 6,000,000,000).",
+        "Conducted a study to design coal operation activity budgeting using motion time study and inferential statistics as part of a graduate program project."
+      ]
     },
 
     {
@@ -51,8 +55,10 @@
       "startDate": "2020-04-01",
       "endDate": "2021-06-01",
       "summary": "Formulated method-based problem-solving solutions for individual clients through consultations and software, including dashboards and models. Led the company's platform development in the Data as a Service (DaaS) marketplace, overseeing product design, management, and customer service for clients and analysts.",
-      "highlights": ["Discrete-Event Modelling of Port Management System in Tanjung Perak, Surabaya",
-    "HR Analytics for Employee Training Recommendation."]
+      "highlights": [
+        "Discrete-Event Modelling of Port Management System in Tanjung Perak, Surabaya",
+        "HR Analytics for Employee Training Recommendation."
+      ]
     },
 
     {
@@ -70,7 +76,6 @@
       "endDate": "2018-08-01",
       "summary": "Conducted a project of Model Building for Inflation Prediction and Policy Analysis of Consumer Price Index as associate responsible as main modeler representing the undergraduate department institute. Applied simulation technique, specifically system dynamics."
     }
-
   ],
   "volunteer": [
     {
@@ -113,7 +118,15 @@
       "startDate": "2022-09-12",
       "endDate": "2023-11-28",
       "score": "Distinction",
-      "courses": ["Simulation and Modelling", "Predictive Analytics", "Prescriptive Analytics", "Web and Network Analytics", "Python Programming", "Soft-Computing", "Stochastic Programming"]
+      "courses": [
+        "Simulation and Modelling",
+        "Predictive Analytics",
+        "Prescriptive Analytics",
+        "Web and Network Analytics",
+        "Python Programming",
+        "Soft-Computing",
+        "Stochastic Programming"
+      ]
     },
 
     {
@@ -125,7 +138,16 @@
       "startDate": "2014-08-01",
       "endDate": "2018-09-01",
       "score": "3.42",
-      "courses": ["Project Management", "Feasibility Study", "Business Statistics", "Operation Research", "Quality Control", "Supply Chain Management", "Simulation", "Data Mining"]
+      "courses": [
+        "Project Management",
+        "Feasibility Study",
+        "Business Statistics",
+        "Operation Research",
+        "Quality Control",
+        "Supply Chain Management",
+        "Simulation",
+        "Data Mining"
+      ]
     }
   ],
   "awards": [
@@ -173,7 +195,6 @@
       "url": "https://api.eu.badgr.io/public/assertions/j2pbrXURQXCeJ2bVNOz4VQ",
       "icon": "fa-solid fa-calendar"
     }
-
   ],
   "publications": [
     {
