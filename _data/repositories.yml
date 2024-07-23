@@ -6,7 +6,7 @@ repo_description_lines_max: 2
 github_repos:
   - Lazuardis/Optimization
   - Lazuardis/agent_based_modelling
-  - Lazurdis/DESinPython
+  - Lazuardis/DESinPython
   - Lazuardis/Streamlit_Multi_Allocation_Hub
   - Lazuardis/Kaggle-Competition-to-Exercise
   - Lazuardis/UniversityofEdinburgh
