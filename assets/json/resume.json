@@ -24,6 +24,28 @@
   },
   "work": [
     {
+      "name": "Institut Teknologi Sepuluh Nopember, Department of Business Management",
+      "position": "Adjunct Lecturer",
+      "url": "https://www.its.ac.id/",
+      "startDate": "2024-08-17"
+      // "endDate": "2022-08-01",
+      // "summary": "Designed and curated problem-solving, quantitative-based solution proposals to enterprise-level clients. Acted as company's spokesperson during enterprise-level project meetings, facilitating communication between clients and the team providing Data as a Service (DaaS).",
+      // "highlights": [
+      // "Led a team of Data Scientists, Software Developers, and a UI/UX Designer as the Product/Project Manager to develop a digital infrastructure for employee competency assessment in Data Science and Machine Learning. Collaborated with a third-party company to design machine learning case studies, including Classification, Clustering, Recommender Systems, and Deep Learning."
+      // ]
+    },
+    {
+      "name": "GAIA Dental Studio",
+      "position": "Data Scientist and Modelling",
+      "url": "https://www.gaiadentalindonesia.com/",
+      "startDate": "2024-08-01"
+      // "endDate": "2022-08-01",
+      // "summary": "Designed and curated problem-solving, quantitative-based solution proposals to enterprise-level clients. Acted as company's spokesperson during enterprise-level project meetings, facilitating communication between clients and the team providing Data as a Service (DaaS).",
+      // "highlights": [
+      // "Led a team of Data Scientists, Software Developers, and a UI/UX Designer as the Product/Project Manager to develop a digital infrastructure for employee competency assessment in Data Science and Machine Learning. Collaborated with a third-party company to design machine learning case studies, including Classification, Clustering, Recommender Systems, and Deep Learning."
+      // ]
+    },
+    {
       "name": "Inalyst Indonesia of Telkom Indonesia",
       "position": "Head of Business Analyst",
       "url": "https://www.telkom.co.id/sites",
