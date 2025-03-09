@@ -168,12 +168,28 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  # - name: medium.com
+  #   rss_url: https://medium.com/@al-folio/feed
+
+  - name: Discrete Event Simulation using Python SimPy — Pseudo-Random, Simulation Replication, Validation, and Input Data Fitting
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://medium.com/@lazuardy.almuzaki/discrete-event-simulation-using-python-simpy-pseudo-random-simulation-replication-validation-e86ba7de3683
+        published_date: 2023-11-13
+
+  - name: Discrete Event Simulation using Python SimPy — Identifying Performance Metrics (Queue & Utilization) and Visualizing Result
+    posts:
+      - url: https://medium.com/@lazuardy.almuzaki/discrete-event-simulation-using-python-simpy-identifying-performance-metrics-queue-3c15d0726c10
+        published_date: 2023-10-26
+
+  - name: Discrete Event Simulation using Python SimPy — Identifying Performance Metrics (Queue & Utilization) and Visualizing Result
+    posts:
+      - url: https://medium.com/@lazuardy.almuzaki/discrete-event-simulation-using-python-simpy-identifying-performance-metrics-queue-3c15d0726c10
+        published_date: 2023-10-26
+
+  - name: Discrete Event Simulation using Python SimPy — Building Basic Models
+    posts:
+      - url: https://medium.com/@lazuardy.almuzaki/discrete-event-simulation-using-python-simpy-building-basic-model-1bb34b691797
+        published_date: 2023-10-17
 
 # -----------------------------------------------------------------------------
 # Newsletter
